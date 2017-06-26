@@ -106,6 +106,7 @@ ImagePicker.clean().then(() => {
 | mime | string | Selected image MIME type (image/jpeg, image/png) |
 | size | number | Selected image size in bytes |
 | data | base64 | Optional base64 selected file representation |
+| createDate | string | datetime image create |
 
 ## Install
 
